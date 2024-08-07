@@ -4,6 +4,7 @@ Si vous manquez de compétence en growth hacking pour utiliser cette bibliothèq
 
 > [Formation Growth Hacking](https://paiement.formation-growth-hacking.fr/formation-growth-summer)
 (offre bientôt terminée)
+![Profile Image](https://media.licdn.com/dms/image/v2/D4E03AQGqQSQg2dfhRA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1706257147004?e=1728518400&v=beta&t=XxIFxqp1e9DaGjyl7NSEicymjqeDfi-xB5Ctl5wTw_E)
 
 **Invitations**
 
@@ -35,3 +36,4 @@ Si vous manquez de compétence en growth hacking pour utiliser cette bibliothèq
 - API de la Page Entreprise LinkedIn
 
 Bravo à @tomquirk pour son travail de reverse engineering !
+
